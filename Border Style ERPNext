@@ -1,0 +1,129 @@
+
+//Add the below code in Default Print Style
+ 
+ awesomplete,
+ button,
+ input {
+  border: 1px solid !important;
+ }
+
+ .form-dashboard-section,
+ .form-section.card-section {
+  border: 1px solid !important;
+ }
+
+ .grid-static-col,
+ .row-index {
+  border: 1px solid !important;
+ }
+
+ .col-1,
+ .col-xs-1 {
+  border: 1px solid !important;
+ }
+
+ .comment-box {
+  border: 1px solid !important;
+ }
+
+ .frappe-control .address-box,
+ .frappe-control .ql-editor:not(.read-mode) {
+  border: 1px solid !important;
+ }
+
+ .form-control {
+  border: 1px solid !important;
+    border-radius: 0px !important;
+ }
+
+ .like-disabled-input {
+  border: 1px solid !important;
+ }
+
+ .btn,
+ div#driver-popover-item .driver-popover-footer button,
+ div#driver-popover-item .driver-popover-footer button.driver-close-btn,
+ div#driver-popover-item .driver-popover-footer button.driver-disabled,
+ div#driver-popover-item .driver-popover-footer button.driver-next-btn,
+ div#driver-popover-item .driver-popover-footer button.driver-prev-btn {
+  border: 1px solid !important;
+ }
+
+ .reqd {
+  color: #bd1d1d !important;
+ }
+
+ .control-label {
+  font-weight: 600 !important;
+ }
+
+ .form-links .document-link .document-link-badge,
+ .form-links .document-link .report-link-badge {
+  border: 1px solid !important;
+ }
+
+ .widget {
+  border: 1px solid !important;
+ }
+
+ .desk-sidebar .standard-sidebar-item,
+ .search-dialog .search-results .search-sidebar .standard-sidebar-item,
+ .standard-sidebar .standard-sidebar-item {
+  border: 1px solid !important;
+ }
+
+
+ .list-row,
+ .list-row-head {
+  border: 1px solid !important;
+ }
+
+ .form-sidebar .sidebar-image-section .sidebar-image-wrapper {
+  border: 1px solid !important;
+ }
+
+ input[type=checkbox],
+ input[type=radio] {
+  border: 1px solid !important;
+ }
+
+ .footnote-area .btn-group .btn-paging.btn-info,
+ .list-paging-area .btn-group .btn-paging.btn-info {
+  border: 1px solid !important;
+    color: #0a0505 !important;
+ }
+ .layout-main-section.form-dashboard-section, .layout-main-section.form-section.card-section, .layout-main-section.frappe-card {
+  border: 1px solid !important;
+}
+
+.checkbox .label-area {
+  font-weight: 600 !important;
+}
+.awesomplete>ul>li, .ellipsis, .widget.shortcut-widget-box .indicator-pill {
+
+  font-weight: 700 !important;
+}
+
+.form-links .document-link .document-link-badge, .form-links .document-link .report-link-badge {
+
+  font-weight: 600 !important;
+}
+.btn, .btn:active, .btn:focus, .btn:hover, a, a:active, a:focus, a:hover, div#driver-popover-item .driver-popover-footer button, div#driver-popover-item .driver-popover-footer button.driver-close-btn, div#driver-popover-item .driver-popover-footer button.driver-disabled, div#driver-popover-item .driver-popover-footer button.driver-next-btn, div#driver-popover-item .driver-popover-footer button.driver-prev-btn, div#driver-popover-item .driver-popover-footer button:active, div#driver-popover-item .driver-popover-footer button:focus, div#driver-popover-item .driver-popover-footer button:hover {
+  font-weight: 700;
+ 
+}
+.like-disabled-input {
+  font-weight: 600 !important;
+}
+.dt-cell {
+
+  border: 1px solid !important;
+  font-weight: 600 !important;
+}
+.datatable .dt-header .dt-cell--header .dt-cell__content {
+  font-weight: 600 !important;
+}
+.like-disabled-input {
+
+  border-radius: 0px;
+}
